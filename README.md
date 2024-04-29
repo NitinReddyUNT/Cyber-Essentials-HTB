@@ -22,11 +22,9 @@ The Scanner is made up of different parts:
 1. Binary/Executable: This is the program that is being tested for vulnerabilities. It is usually a file that can be executed on your system.
 2. Source Code: If available, the source code gives an understanding of how the binary was created and what vulnerabilities it might have.
 3. Debugger: Programs like GDB allow you to examine the running process, establish breakpoints, and control the execution flow.
-4. Disassembler/Decompiler: Tools like objdump help analyze the binary code by breaking it down into assembly code or even attempting to convert
-it back to a higher-level language.
+4. Disassembler/Decompiler: Tools like objdump help analyze the binary code by breaking it down into assembly code or even attempting to convertit back to a higher-level language.
 5.Payload Generator: In order to exploit a binary, it may be necessary to create payloads. Utilities such as pwntools for Python are useful in creating these payloads.
-6.Shellcode: When looking at exploitation, shellcode consists of a series of commands that are inserted into the running application to carry out a task
-beyond the application's original purpose, usually to trigger a shell.
+6.Shellcode: When looking at exploitation, shellcode consists of a series of commands that are inserted into the running application to carry out a taskbeyond the application's original purpose, usually to trigger a shell.
 7.Exploit Script: This is a script (typically written in Python using pwntools) that streamlines the exploitation process.
 It constructs and transmits the payload, and frequently communicates with the spawned shell.
 
