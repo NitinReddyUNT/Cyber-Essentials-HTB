@@ -34,11 +34,8 @@ We have also delved into more advanced GDB functions to help which has helped us
 2)Pwntools : "Pwntools" is a powerful tool for hackers, enabling them to create custom codes for accessing computer systems. It allows us to create a sophisticated payload,
 such as a hidden message, to take advantage of vulnerabilities in the Scanner challenge on Hack the Box, giving us an advantage in the game.
 
-
-
-
-
-
+Conclusion : 
+This Hack The Box challenge helped us improve technical skills and problem-solving abilities, giving a better understanding of typical attack methods. It also promotes resilience and community involvement, while emphasizing the importance of paying close attention to detail and being persistent.
 
 
 
