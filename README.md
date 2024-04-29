@@ -1,24 +1,32 @@
 Group # 12 CSCE 5552 { Cyber Security Essentials }
 
 Group Members:
+
 Nitin Reddy Balaiahgari(11698724) 
+
 Koushik uravakonda(11700497)
+
 Lakshmi chatura mededi(11682526)
+
 Sweety pasupuleti(11723266)
 
 Hack The Box:
+
 Hack The Box (HTB) is an online resource that offers a wide range of virtual
 machines and tasks intended for ethical hacking training and penetration testing. Known as
 "pentesters" or "ethical hackers," it offers a practical, interactive environment where
 individuals may advance their skills in a controlled and secure environment.
 
 Scanner Challenge : 
+
 In the Hack the box platform we have selected Scanner- Medium Challenge in Hack the
 box platform. The primary objective is to investigate the weaknesses that highlight the
 algorithms shortcomings and find ways to fix them.
 
 Project components : 
+
 The Scanner is made up of different parts:
+
 1. Binary/Executable: This is the program that is being tested for vulnerabilities. It is usually a file that can be executed on your system.
 2. Source Code: If available, the source code gives an understanding of how the binary was created and what vulnerabilities it might have.
 3. Debugger: Programs like GDB allow you to examine the running process, establish breakpoints, and control the execution flow.
